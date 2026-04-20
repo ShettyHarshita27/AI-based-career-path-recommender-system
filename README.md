@@ -4,15 +4,18 @@ An AI-powered web app that helps students choose the right career path by analyz
 
 
 
+
 ## Problem Statement
 
 Students often struggle to choose the right career due to lack of guidance and awareness.
 
 
 
+
 ## Solution
 
 This system analyzes user input and provides personalized career recommendations using AI logic.
+
 
 
 
@@ -23,6 +26,7 @@ This system analyzes user input and provides personalized career recommendations
 - AI-based Recommendation Logic
 - Firebase Firestore Database
 - Dashboard with Results
+
 
 
 
@@ -38,6 +42,7 @@ Backend:
 
 
 
+
 ## How It Works
 
 1. User registers/login
@@ -48,8 +53,10 @@ Backend:
 
 
 
-## 📊 Project Presentation
+
+## Project Presentation
 [View PPT](https://github.com/ShettyHarshita27/AI-based-career-path-recommender-system/blob/main/docs/ppt%20AI%20Based%20Career%20Path%20Recommender%20System.pptx)
+
 
 
 
