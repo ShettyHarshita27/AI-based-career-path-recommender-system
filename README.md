@@ -4,8 +4,8 @@ An AI-powered web app that helps students choose the right career path by analyz
 
 
 # Key Features 
-User Authentication (Login/Register)
-Career Assessment Form
-AI-based Recommendation Logic
-Firebase Firestore Database
-Dashboard with Results
+- User Authentication (Login/Register)
+- Career Assessment Form
+- AI-based Recommendation Logic
+- Firebase Firestore Database
+- Dashboard with Results
