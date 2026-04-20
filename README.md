@@ -4,6 +4,11 @@ An AI-powered web app that helps students choose the right career path by analyz
 
 
 
+
+
+
+
+
 ## Problem Statement
 
 Students often struggle to choose the right career due to lack of guidance and awareness.
