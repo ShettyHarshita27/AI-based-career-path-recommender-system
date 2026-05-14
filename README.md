@@ -237,9 +237,6 @@ The platform's most innovative feature visually compares required skills vs. use
 - Smooth animations and transitions
 - Mobile-first design
 
-## 📄 License
-
-This project is built for the Google Gen AI Exchange Hackathon.
 
 ## 🤝 Contributing
 For contribution raise the PR
